@@ -1,7 +1,7 @@
 This problem is called "Edit Step Ladder".  I found it in the book
-"Programming Challenges" [0] by Steven S. Skiena & Miguel A. Revilla.  The
-problem is numbered 9.6.5 and it is on page 210 of the book.  I have copied the
-problem description here:
+["Programming Challenges" by Steven S. Skiena & Miguel A. Revilla](http://www.acmsolver.org/books/Programming_Challenges_Miguel_Skiena.pdf).
+The problem is numbered 9.6.5 and it is on page 210 of the book.  I have copied
+the problem description here:
 
 -----------------------
 
@@ -47,6 +47,4 @@ The program you write will read the input from stdin and output a single number
 to stdout.  You should be able to run your program by running
 "./yourproghere < wordlisthere.txt" and the only output should be a number
 followed by a newline.
-
-[0] http://www.acmsolver.org/books/Programming_Challenges_Miguel_Skiena.pdf
 
